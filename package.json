@@ -1,0 +1,23 @@
+{
+  "name": "botbuy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krastii/BotBuy.git"
+  },
+  "author": "Krastii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krastii/BotBuy/issues"
+  },
+  "homepage": "https://github.com/Krastii/BotBuy#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.0.1"
+  }
+}
